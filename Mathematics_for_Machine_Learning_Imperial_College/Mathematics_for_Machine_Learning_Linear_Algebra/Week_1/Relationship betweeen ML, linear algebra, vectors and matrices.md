@@ -37,5 +37,5 @@ Vectors is being calculated by the reference metric of j and i in here. r = (3i 
  Associative vector addition does not care what order it comes with
 * s + r = r + s
 * (r + s) + t = r + (s + t)
-![[Vector operations with addition, subtraction and multiplication.png]]
+![[Mathematics_for_Machine_Learning_Imperial_College/Mathematics_for_Machine_Learning_Linear_Algebra/Week_1/Resources/Vector operations examples.png]]
 * ![[Vector house example.png]]
