@@ -53,5 +53,3 @@ When a base class is inherited, the derived class
 * Can access all public members of the base class
 * Can not access private members of the base class
 ![[Initializer list.png]]
-
-![[Initializing constructor without putting into code.png]]
